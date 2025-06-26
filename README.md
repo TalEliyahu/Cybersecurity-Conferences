@@ -2,7 +2,6 @@
 
 | Event Name | Date | Venue | Website | Description |
 |---|---|---|---|---|
-| **World Conference on Cyber Security and Ethical Hacking (WCCSEH) 2025** | 2025‑01‑02 to 03 | Singapore (Venue TBA) | [igrnet.org](https://igrnet.org/Conference/3143/WCCSEH/) | Global forum for researchers and practitioners covering ethical hacking, application security, data privacy, and emerging cyber threats. |
 | **DiCyFor Security Summit Singapore 2025** | 2025‑02‑26 | PARKROYAL on Beach Road | [dicyfor.com](https://www.dicyfor.com/singapore2025) | One-day summit exploring digital resilience, Zero Trust, AI-driven threats, and emerging risk strategies. |
 | **Cyber Security Summit (24th Edition)** | 2025‑03‑06 | Sofitel Singapore City Centre | [exito-e.com](https://exito-e.com/cybersecuritysummit/singapore/) | High-level strategy forum for CISOs and security leaders focused on threat intelligence, resilience, and compliance. |
 | **STANDCON 2025** | 2025‑03‑06 to 07 | Suntec Singapore Convention & Exhibition Centre (Nicoll Rooms) | [standcon.n0h4ts.com](https://standcon.n0h4ts.com/) | Two-day cybersecurity conference by N0H4TS and Division Zero for students and mid-career professionals. Features expert talks, workshops, hands-on villages (Malware, Lock Picking, Flipper Zero), Cyber League CTF, and focus on emerging tech (AI×Web3, quantum). |
