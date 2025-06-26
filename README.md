@@ -1,4 +1,4 @@
-# 🇸🇬 Cybersecurity Main Events in Singapore – 2025 
+# 🇸🇬 Cybersecurity Events in Singapore – 2025 
 
 | Event Name | Date | Venue | Website | Description |
 |---|---|---|---|---|
