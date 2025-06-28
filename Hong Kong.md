@@ -12,6 +12,7 @@ _No confirmed events listed yet._
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **InfoSecurity Summit (17th Ed.)** | Mar 11 | Cordis Hotel, Mongkok | MIG Events / PISA | Annual CISO forum on AI, risk management and resilience in emerging‑tech era. | [Link](https://www.mighkevents.com/infosec25-mig) |
+| **Ignite On Tour Hong Kong** | Mar 14 | TBD | Palo Alto Networks | Flagship cybersecurity event covering AI-driven SOC transformation and threat defense. | [Link](https://register.paloaltonetworks.com/igniteontour-hongkong-2025) |
 | **ManageEngine CyberCon 2025** | Mar 18 | W Hong Kong | ManageEngine / NetMon | Invite‑only enterprise security forum on SIEM, endpoint, XDR and cloud security. | [Link](https://events.manageengine.com/cybercon-hong-kong) |
 | **HKIB Cybersecurity Solutions Day** | Mar 20 | Ocean Park Marriott | HKIB | Financial services cybersecurity, incident response and resilience strategies. | [Link](https://www.sangfor.com/events-and-webinars/hkib-cybersecurity-solutions-day-2025/) |
 | **BSides Hong Kong 2025** | Mar 27–29 | Tower 535 & HKMU Campus | BSides HK | Hacker‑conference with CTF, exploit villages, drone/Ai security talks. | [Link](https://www.bsideshk.org/) |
@@ -25,6 +26,7 @@ _No confirmed events listed yet._
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **Check Point Engage Hong Kong 2025** | May 15 | Kerry Hotel | Check Point Software | Full‑day cybersecurity conference covering AI, XDR, cloud, endpoint, and threat prevention. | [Link](https://pages.checkpoint.com/2025-may-check-point-engage-hk.html) |
+| **Tech Fest Summit 2025** | May 21 | HKCEC | TechFest | Large-scale regional tech and cybersecurity forum featuring innovation showcases and security tracks. | [Link](https://techfest.hk) |
 
 ## 🗓 June
 | Event Name | Date | Venue | Organizer | Description | Link |
