@@ -6,9 +6,7 @@ A comprehensive list of cybersecurity‑related conferences and forums happening
 _No confirmed events listed yet._
 
 ## 🗓 February
-| Event Name | Date | Venue | Organizer | Description | Link |
-|---|---|---|---|---|---|
-| **Mastering China’s Cyber Defenses** | Feb 24 | HKU SPACE Admiralty Centre | PISA & (ISC)² HK Chapter | Evening seminar on China’s graded data protection laws (等保) and CISP certification. | [Link](https://www.eventbrite.com/e/mastering-chinas-cyber-defenses-tickets-1234793995079) |
+_No confirmed events listed yet._
 
 ## 🗓 March
 | Event Name | Date | Venue | Organizer | Description | Link |
