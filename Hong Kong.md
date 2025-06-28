@@ -19,7 +19,7 @@ A comprehensive list of cybersecurity‑related conferences and forums happening
 | **InfoSecurity Summit (17th Ed.)** | Mar 11 | Cordis Hotel, Mongkok | MIG Events / PISA | Annual CISO forum on AI, risk management and resilience in emerging‑tech era. | [Link](https://www.mighkevents.com/infosec25-mig) |
 | **ManageEngine CyberCon 2025** | Mar 18 | W Hong Kong | ManageEngine / NetMon | Invite‑only enterprise security forum on SIEM, endpoint, XDR and cloud security. | [Link](https://events.manageengine.com/cybercon-hong-kong) |
 | **HKIB Cybersecurity Solutions Day** | Mar 20 | Ocean Park Marriott | HKIB | Financial services cybersecurity, incident response and resilience strategies. | [Link](https://hkibcyber.hkibcyber2025/) |
-| **BSides Hong Kong 2025** | Mar 27–29 | Tower 535 & HKMU Campus | BSides HK | Hacker‑conference with CTF, exploit villages, drone/Ai security talks. | [Link](https://unwire.hk/2025/04/02/bsides-hong-kong-2025/) |
+| **BSides Hong Kong 2025** | Mar 27–29 | Tower 535 & HKMU Campus | BSides HK | Hacker‑conference with CTF, exploit villages, drone/Ai security talks. | [Link](https://www.bsideshk.org/) |
 
 ## 🗓 April
 | Event Name | Date | Venue | Organizer | Description | Link |
