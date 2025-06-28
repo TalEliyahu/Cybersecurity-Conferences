@@ -54,4 +54,4 @@ _No confirmed events listed yet._
 ## 🗓 October
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
-| **DiCyFor Security Summit HK** | Oct 9 | JW Marriott, Admiralty | Nimat Media | Regional cybersecurity summit on AI risk, Zero Trust and digital resilience. | [Link](https://www.dicyfor.com/hongkongregistration2025) :contentReference[oaicite:3]{index=3} |
+| **DiCyFor Security Summit HK** | Oct 9 | JW Marriott, Admiralty | Nimat Media | Regional cybersecurity summit on AI risk, Zero Trust and digital resilience. | [Link](https://www.dicyfor.com/hongkong2025) |
