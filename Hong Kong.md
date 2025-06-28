@@ -29,7 +29,6 @@ A comprehensive list of cybersecurity‑related conferences and forums happening
 ## 🗓 May
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
-| **AWS Summit Hong Kong 2025** | May 8 | HKCEC | AWS | Cloud‑security and governance tracks, including AI resilience and Zero Trust. | [Link](https://aws.amazon.com/events/summits/hongkong/) |
 | **Check Point Engage Hong Kong 2025** | May 15 | Kerry Hotel | Check Point Software | Full‑day cybersecurity conference covering AI, XDR, cloud, endpoint, and threat prevention. | [Link](https://pages.checkpoint.com/2025-may-check-point-engage-hk.html) |
 
 ## 🗓 June
