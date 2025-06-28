@@ -3,9 +3,7 @@
 A comprehensive list of cybersecurity‑related conferences and forums happening in Hong Kong throughout 2025. Includes public and invite‑only gatherings across industry, government, and academia. Excludes small community meetups.
 
 ## 🗓 January
-| Event Name | Date | Venue | Organizer | Description | Link |
-|---|---|---|---|---|---|
-| **HKCERT CTF Final & Awards** | Jan 20–21 | HKPC Building | HKCERT | Final round of Hong Kong’s largest Capture‑the‑Flag contest with workshops and awards. | [Link](https://ctf.hkcert.org) |
+_No confirmed events listed yet._
 
 ## 🗓 February
 | Event Name | Date | Venue | Organizer | Description | Link |
