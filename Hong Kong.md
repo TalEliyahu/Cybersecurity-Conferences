@@ -6,7 +6,7 @@ A comprehensive list of cybersecurity‑related conferences and forums happening
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **HKCERT CTF Final & Awards** | Jan 20–21 | HKPC Building | HKCERT | Final round of Hong Kong’s largest Capture‑the‑Flag contest with workshops and awards. | [Link](https://ctf.hkcert.org) |
-| **HK BFSI Cybersecurity Innovation & Solution Day** | Jan 17 | Meta Stages, Causeway Bay | NetMon, Cyble, HKDFA | Cyber‑innovation forum focused on BFSI risk, threat intelligence and solution demos. | [Link](https://hkibcyber.hkibcyber2025/index.html) |
+| **HK BFSI Cybersecurity Innovation & Solution Day** | Jan 17 | Meta Stages, Causeway Bay | NetMon, Cyble, HKDFA | Cyber‑innovation forum focused on BFSI risk, threat intelligence and solution demos. | [Link](https://hkibcyber.hkib.org/hkibcyber2025/) |
 
 ## 🗓 February
 | Event Name | Date | Venue | Organizer | Description | Link |
@@ -17,7 +17,7 @@ A comprehensive list of cybersecurity‑related conferences and forums happening
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **InfoSecurity Summit (17th Ed.)** | Mar 11 | Cordis Hotel, Mongkok | MIG Events / PISA | Annual CISO forum on AI, risk management and resilience in emerging‑tech era. | [Link](https://www.mighkevents.com/infosec25-mig) :contentReference[oaicite:1]{index=1} |
-| **ManageEngine CyberCon 2025** | Mar 18 | W Hong Kong | ManageEngine / NetMon | Invite‑only enterprise security forum on SIEM, endpoint, XDR and cloud security. | [Link](https://events.manageengine.com/cybercon-hong-kong) :contentReference[oaicite:2]{index=2} |
+| **ManageEngine CyberCon 2025** | Mar 18 | W Hong Kong | ManageEngine / NetMon | Invite‑only enterprise security forum on SIEM, endpoint, XDR and cloud security. | [Link](https://events.manageengine.com/cybercon-hong-kong) |
 | **HKIB Cybersecurity Solutions Day** | Mar 20 | Ocean Park Marriott | HKIB | Financial services cybersecurity, incident response and resilience strategies. | [Link](https://hkibcyber.hkibcyber2025/) |
 | **BSides Hong Kong 2025** | Mar 27–29 | Tower 535 & HKMU Campus | BSides HK | Hacker‑conference with CTF, exploit villages, drone/Ai security talks. | [Link](https://unwire.hk/2025/04/02/bsides-hong-kong-2025/) |
 
