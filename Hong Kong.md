@@ -26,7 +26,7 @@ _No confirmed events listed yet._
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **Check Point Engage Hong Kong 2025** | May 15 | Kerry Hotel | Check Point Software | Full‑day cybersecurity conference covering AI, XDR, cloud, endpoint, and threat prevention. | [Link](https://pages.checkpoint.com/2025-may-check-point-engage-hk.html) |
-| **Tech Fest Summit 2025** | May 21 | HKCEC | TechFest | Large-scale regional tech and cybersecurity forum featuring innovation showcases and security tracks. | [Link](https://techfest.hk) |
+| **Tech Fest Summit 2025** | May 21 | Convention Hall, HKCEC | KORNERSTONE Institute / Revive Tech Asia / TEH Group | One-day event uniting cloud, emerging tech, and cybersecurity with 1,500+ tech leaders, panels, workshops, and showcases. | [Link](https://techfest.hk) |
 
 ## 🗓 June
 | Event Name | Date | Venue | Organizer | Description | Link |
