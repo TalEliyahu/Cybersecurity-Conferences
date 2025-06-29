@@ -14,7 +14,7 @@ _No confirmed events listed yet._
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **InfoSecurity Summit (17th Ed.)** | Mar 11 | Cordis Hotel, Mongkok | MIG Events / PISA | Annual CISO forum on AI, risk management and resilience in emerging‑tech era. | [Link](https://www.mighkevents.com/infosec25-mig) |
-| **Ignite On Tour Hong Kong** | Mar 14 | Grand Ballroom, 16F, Hopewell Hotel, Wan Chai | Palo Alto Networks | Flagship cybersecurity event (9:00AM–5:00PM) covering AI-driven SOC transformation and threat defense. | [Link](https://register.paloaltonetworks.com/igniteontour-hongkong-2025) |
+| **Ignite On Tour Hong Kong** | Mar 14 | Grand Ballroom, 16F, Hopewell Hotel, Wan Chai | Palo Alto Networks | Flagship cybersecurity event covering AI-driven SOC transformation and threat defense. | [Link](https://register.paloaltonetworks.com/igniteontour-hongkong-2025) |
 | **CyberCon** | Mar 18 | W Hong Kong | ManageEngine / NetMon | Invite‑only enterprise security forum on SIEM, endpoint, XDR and cloud security. | [Link](https://events.manageengine.com/cybercon-hong-kong) |
 | **HKIB Cybersecurity Solutions Day** | Mar 20 | Ocean Park Marriott | HKIB | Financial services cybersecurity, incident response and resilience strategies. | [Link](https://www.sangfor.com/events-and-webinars/hkib-cybersecurity-solutions-day-2025/) |
 | **BSides Hong Kong** | Mar 27–29 | Tower 535 & HKMU Campus | BSides HK | Hacker‑conference with CTF, exploit villages, drone/Ai security talks. | [Link](https://www.bsideshk.org/) |
