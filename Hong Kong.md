@@ -35,7 +35,7 @@ _No confirmed events listed yet._
 | Event Name | Date | Venue | Organizer | Description | Link |
 |---|---|---|---|---|---|
 | **PISA Jam** | Jun 21 | HKU SPACE Admiralty Centre | PISA & (ISC)² HK Chapter | Community‑driven conference & workshops on cybersecurity trends and standards. | [Link](https://pisa.org.hk/2025/06/01/pisa-jam-2025-21-jun-2025/) |
-| **HKCNSA Symposium 2025** | Jun 26 | Ritz‑Carlton, Hong Kong | HKCNSA with HKSAR support | High‑level forum on AI governance, critical infrastructure and post‑quantum security. | [Link](https://www.moxie-mail.com/project/NK4416/info.php?code=NK4416-27) |
+| **HKCNSA Symposium** | Jun 26 | Ritz‑Carlton, Hong Kong | HKCNSA with HKSAR support | High‑level forum on AI governance, critical infrastructure and post‑quantum security. | [Link](https://www.moxie-mail.com/project/NK4416/info.php?code=NK4416-27) |
 
 ## 🗓 July
 | Event Name | Date | Venue | Organizer | Description | Link |
